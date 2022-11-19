@@ -5,77 +5,77 @@
       "title": "Clean Code",
       "subTitle": "A Code of Conduct for Professional Programmers",
       "author": "Robert C. Martin",
-      "published year": "2011"
+      "year": "2011"
     },
     {
       "id": 2,
       "title": "The Mythical Man-Month",
       "subTitle": "Essays on Software Engineering",
       "author": "Fred Brooks",
-      "published year": "1975"
+      "year": "1975"
     },
     {
       "id": 3,
       "title": "Pragmatic Programmer",
       "subTitle": "Your journey to mastery",
       "author": "Andrew Hunt,David Thomas",
-      "published year": "1999"
+      "year": "1999"
     },
     {
       "id": 4,
       "title": "Art of Computer Programming",
       "subTitle": "Volumes 1-4A Boxed Set",
       "author": "Donald Knuth",
-      "published year": "1968"
+      "year": "1968"
     },
     {
       "id": 5,
       "title": "C O D E",
       "subTitle": "The Hidden Language of Computer Hardware and Software",
       "author": "Charles Petzold",
-      "published year": "1999"
+      "year": "1999"
     },
     {
       "id": 6,
       "title": "Introduction to Algorithms",
       "subTitle": "",
       "author": "Thomas H. Cormen,Charles E. Leiserson,Ronald L. Rivest,Clifford Stein",
-      "published year": "1990"
+      "year": "1990"
     },
     {
       "id": 7,
       "title": "Refactoring",
       "subTitle": "Improving the Design of Existing Code ",
       "author": "MartinFowler",
-      "published year": "1999"
+      "year": "1999"
     },
     {
       "id": 8,
       "title": "Design Patterns",
       "subTitle": "Elements of Reusable Object-Oriented Software",
       "author": "The Gang of Four: Erich Gamma,Richard Helm,Ralph Johnson,John Vlissides",
-      "published year": "1994"
+      "year": "1994"
     },
     {
       "id": 9,
       "title": "Cracking the Coding Interview",
       "subTitle": "",
       "author": "TGayle Laakmann McDowell",
-      "published year": "2008"
+      "year": "2008"
     },
     {
       "id": 10,
       "title": "JavaScript",
       "subTitle": "The Good Parts",
       "author": "Douglas Crockford",
-      "published year": "2008"
+      "year": "2008"
     },
     {
       "id": 11,
       "title": "Don't Make Me Think",
       "subTitle": "The Good Parts",
       "author": "Steve Krug",
-      "published year": "2000"
+      "year": "2000"
     }
   ]
 }
